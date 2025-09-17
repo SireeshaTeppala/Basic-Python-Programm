@@ -1,0 +1,3 @@
+a=float(input("enter the number:"))
+result=a*10
+print("the result is:",result)
