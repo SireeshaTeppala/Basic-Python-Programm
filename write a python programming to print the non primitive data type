@@ -1,0 +1,6 @@
+my_list=[1,2,3,4,5]
+my_tuple=(1,2,3,4,5)
+my_set={1,2,3,4,5}
+print("tuple:",my_tuple)
+print("list:",my_list)
+print("set:",my_set)
