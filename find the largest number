@@ -1,0 +1,6 @@
+a=int(input("enter the number:"))
+b=int(input("enter the number:"))
+b=int(input("enter the number:"))
+result=max(a,b,c)
+print("the largest of three numbers:",result)
+
